@@ -1,2 +1,2 @@
-# DataSciencePath
-This repo will include my data science projects with all detail
+# Analyzing Marketing Campaigns with Pandas
+This repo will include pandas examples
